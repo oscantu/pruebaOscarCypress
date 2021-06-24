@@ -1,0 +1,31 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=10966
+END=12457
+title=example to-do app displays two todo items by default
+[CHAPTER]
+TIMEBASE=1/1000
+START=13288
+END=13955
+title=example to-do app can add new todo items
+[CHAPTER]
+TIMEBASE=1/1000
+START=14236
+END=14623
+title=example to-do app can check off an item as completed
+[CHAPTER]
+TIMEBASE=1/1000
+START=14138
+END=15012
+title=example to-do app with a checked task can filter for uncompleted tasks
+[CHAPTER]
+TIMEBASE=1/1000
+START=15497
+END=15887
+title=example to-do app with a checked task can filter for completed tasks
+[CHAPTER]
+TIMEBASE=1/1000
+START=15800
+END=16278
+title=example to-do app with a checked task can delete all completed tasks
